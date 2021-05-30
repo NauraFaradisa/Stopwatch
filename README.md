@@ -3,6 +3,8 @@
 
 _Simple stopwatch by using **html**, **css**, and **javascript**_
 
+[ --> view on my github page](NauraFaradisa.github.io/Stopwatch)
+
 ## Preview
 ![preview](preview.gif)
 
