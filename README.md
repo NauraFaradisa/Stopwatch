@@ -3,7 +3,7 @@
 
 _Simple stopwatch by using **html**, **css**, and **javascript**_
 
-[ --> view on my github page](NauraFaradisa.github.io/Stopwatch)
+[ --> view on my github page](https://NauraFaradisa.github.io/Stopwatch)
 
 ## Preview
 ![preview](preview.gif)
