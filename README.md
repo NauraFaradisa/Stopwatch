@@ -9,11 +9,11 @@ _Simple stopwatch by using **html**, **css**, and **javascript**_
 
 <table style="text-align: center">
     <tr>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/chrome.png?token=ATRGH4B6UO4I6Y7JSFBUU5DAZGHMU"></td>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/IE-edge.png?token=ATRGH4CBPTEJVIQ54YO53HDAZGHXM"></td>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/firefox.png?token=ATRGH4AJK5TXJE5XN36CZZTAZGHZY"></td>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/safari.png?token=ATRGH4FC4SYTIOIMUGSKHJDAZGIAG"></td>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/opera.png?token=ATRGH4DYCBTAWY7LSSYTIE3AZGIHY"></td>
+        <td>chrome</td>
+        <td>IE</td>
+        <td>firefox</td>
+        <td>safari</td>
+        <td>opera</td>
     </tr>
     <tr>
         <td> 4.0 </td>
