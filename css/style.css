@@ -1,0 +1,44 @@
+body{
+	text-align : center;
+	background : ghostwhite;
+	color : dimgray;
+}
+		
+#stopwatchArea{
+    margin-top: 10%;
+    font-size: 120%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#buttons{
+    text-align: center;
+}
+		
+button{
+	height : 50px;
+	width : 50px;
+	background : gray;
+	color : whitesmoke;
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	position : static;
+	margin: 15% 5px 5px 0;
+	border-radius : 50%;
+	-webkit-border-radius : 50%;
+	-moz-border-radius : 50%;
+	font-size :25px;
+	border: none;
+	outline: none;
+}
+
+button[disabled]{
+    background: darkgray;
+}
+		
+.bigNumber{
+    font-size : 45px;
+}
+		
+.smallNumber{
+    font-size : 30px;
+}

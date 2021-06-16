@@ -7,22 +7,41 @@
 	<head>
 		<meta charset="utf-8">
 		<title> Stopwatch | NauraFaradisa </title>
-		<link rel="stylesheet" href="style/style.css">
-	</head>
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="preconnect" href="https://fonts.gstatic.com">
+        <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+    </head>
 	<body>
-		<button onclick="start()"><b>start</b></button>
 		<div id="stopwatchArea">
-				<b>
-					<span class="bigNumber">
-						<span id="hour">00</span>
+		    <b>
+				<span class="bigNumber">
+						<span id="hour" class="box">00</span>
 						<span>:</span>
-						<span id="minute">00</span>
+						<span id="minute" class="box">00</span>
 						<span>:</span>
-						<span id="second">00</span>
-					</span>
-				</b>
-				<span class="smallNumber" id="centisecond">00</span>
+						<span id="second" class="box">00</span>
+				<span class="smallNumber box" id="centisecond">00</span>
+            </b>
 		</div>
-		<script src="script/script.js"></script>
+		<!--buttons-->
+		<button onclick="play()" id="playButton">
+		    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-play-fill" viewBox="0 0 15 15">
+		        <path d="m11.596 8.697-6.363 3.692c-.54.313-1.233-.066-1.233-.697V4.308c0-.63.692-1.01 1.233-.696l6.363 3.692a.802.802 0 0 1 0 1.393z" />
+		        play <!-- for unsupported browsers-->
+		    </svg>
+		</button>
+		<button onclick="pause()" disabled="true" id="pauseButton">
+		    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-pause-fill" viewBox="0 0 15 15">
+		        <path d="M5.5 3.5A1.5 1.5 0 0 1 7 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5zm5 0A1.5 1.5 0 0 1 12 5v6a1.5 1.5 0 0 1-3 0V5a1.5 1.5 0 0 1 1.5-1.5z" />
+		        pause
+		    </svg>
+		</button>
+		<button onclick="stop()" disabled="true" id="stopButton">
+		    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-stop-fill" viewBox="0 0 15 15">
+		        <path d="M5 3.5h6A1.5 1.5 0 0 1 12.5 5v6a1.5 1.5 0 0 1-1.5 1.5H5A1.5 1.5 0 0 1 3.5 11V5A1.5 1.5 0 0 1 5 3.5z" />
+		        stop
+		    </svg>
+		</button>
+		<script src="js/script.js"></script>
 	</body>
 </html>
