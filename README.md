@@ -9,11 +9,11 @@ _Simple stopwatch by using **html**, **css**, and **javascript**_
 
 <table style="text-align: center">
     <tr>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/chrome.png?token=ATRGH4FZG5MHDDMKOJCR6PDAZFVQK"></td>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/IE-edge.png?token=ATRGH4G3C4ZG63AUHYQS4T3AZFVOE"></td>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/firefox.png?token=ATRGH4FSRGFKRZE2RH44DNLAZFVWO"></td>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/safari.png?token=ATRGH4EF2U5AZJ26NXACF4TAZFVYW"></td>
-        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/opera.png?token=ATRGH4EAOANVGQMLJDX7H3TAZFV24"></td>
+        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/chrome.png?token=ATRGH4B6UO4I6Y7JSFBUU5DAZGHMU"></td>
+        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/IE-edge.png?token=ATRGH4CBPTEJVIQ54YO53HDAZGHXM"></td>
+        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/firefox.png?token=ATRGH4AJK5TXJE5XN36CZZTAZGHZY"></td>
+        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/safari.png?token=ATRGH4FC4SYTIOIMUGSKHJDAZGIAG"></td>
+        <td><img src="https://raw.githubusercontent.com/NauraFaradisa/images/main/browsers/opera.png?token=ATRGH4DYCBTAWY7LSSYTIE3AZGIHY"></td>
     </tr>
     <tr>
         <td> 4.0 </td>
