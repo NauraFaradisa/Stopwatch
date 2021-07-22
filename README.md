@@ -1,10 +1,9 @@
 # Stopwatch
 
 ![preview](preview.jpg)
-_Simple stopwatch by using **html**, **css**, and **javascript**_
 
 [NauraFaradisa.github.io/Stopwatch](https://NauraFaradisa.github.io/Stopwatch)
-
+[codepen.io/Naura_Faradisa/pen/jOmBoBy](https://codepen.io/Naura_Faradisa/pen/jOmBoBy)
 ## Browser Support
 
 <table style="text-align: center">
