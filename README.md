@@ -16,23 +16,17 @@ _Simple stopwatch by using **html**, **css**, and **javascript**_
         <td><img src="https://lh3.googleusercontent.com/d/1lMBASCaZCEUGnjdWr2xwYwrocrgWgvJP=s220?authuser=0"></td>
     </tr>
     <tr>
-        <td> 4.0 </td>
-        <td> 9.0 </td>
-        <td> 3.0 </td>
-        <td> 3.1 </td>
-        <td> 10.5</td>
+        <td align="center"> 4.0 </td>
+        <td align="center"> 9.0 </td>
+        <td align="center"> 3.0 </td>
+        <td align="center"> 3.1 </td>
+        <td align="center"> 10.5</td>
     </tr>
     
 </table>
 
 ## Author
 [@NauraFaradisa](https://github.com/NauraFaradisa)
-
-## Tags
-
-[**`HTML`**](https://github.com/topics/html)
-[**`CSS`**](https://github.com/topics/css)
-[**`Javascript`**](https://github.com/topics/javascript)
 
 ## Find a bug?
 [report](https://github.com/NauraFaradisa/Stopwatch/issues)
