@@ -2,11 +2,11 @@
 
 ![preview](preview.jpg)
 
-[NauraFaradisa.github.io/Stopwatch](https://NauraFaradisa.github.io/Stopwatch)
+[NauraFaradisa.github.io/Stopwatch](https://NauraFaradisa.github.io/Stopwatch)<br>
 [codepen.io/Naura_Faradisa/pen/jOmBoBy](https://codepen.io/Naura_Faradisa/pen/jOmBoBy)
 ## Browser Support
 
-<table style="text-align: center">
+<table>
     <tr>
         <td><img src="https://lh3.googleusercontent.com/d/1lINX0uQhURf_cqbG1kfOjBOVF5lGea8G=s220?authuser=0"></td>
         <td><img src="https://lh3.googleusercontent.com/d/1lIpSdQ7B9Rag_VfPFSESsX2AtlRuMuu7=s220?authuser=0"></td>
