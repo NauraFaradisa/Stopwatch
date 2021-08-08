@@ -1,6 +1,6 @@
-# Stopwatch
+<h1 align="center">Stopwatch</h1>
 
-![preview](preview.jpg)
+<img src="preview.jpg" aling="center">
 
 [NauraFaradisa.github.io/Stopwatch](https://NauraFaradisa.github.io/Stopwatch)<br>
 [codepen.io/Naura_Faradisa/pen/jOmBoBy](https://codepen.io/Naura_Faradisa/pen/jOmBoBy)
@@ -29,3 +29,7 @@
 
 ## Find a bug?
 [report](https://github.com/NauraFaradisa/Stopwatch/issues)
+
+---
+
+<div align="right">made with ❤ by <a href="https://github.com/NauraFaradisa"> Naura </a></div>
